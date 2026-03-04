@@ -4,3 +4,5 @@ print("Azul: El color del cielo y del mar.")
 print("Verde: El color de la naturaleza y los árboles.")
 print("Amarillo: El color del sol y la energía.")
 print("Naranja: El color de las mandarinas.")
+
+print("Mejora: En el futuro podríamos añadir colores.")
