@@ -1,5 +1,5 @@
 print("--- LOS COLORES DEL ARCOÍRIS ---")
-print("Rojo: Es el primer color, muy llamativo.")
+print("Rojo: Es el primer color, muy llamativo y elegante.")
 print("Azul: El color del cielo y del mar.")
 print("Verde: El color de la naturaleza y los árboles.")
 print("Amarillo: El color del sol y la energía.")
